@@ -443,7 +443,7 @@ Kemudian tambahkan CSS.
 
 Lalu lihat hasilnya
 
-![Foto](Foto/23.png)
+![Foto](Foto/first.png)
 
 2. Buat HTML seperti berikut
 
